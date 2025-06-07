@@ -1,1 +1,14 @@
-{}
+{
+    "mcpServers": {
+        "busca-wikipedia": {
+            "command": "/home/loboprogramming/.local/bin/uv",
+            "args": [
+                "--directory",
+                "/home/loboprogramming/Área de trabalho/MCP-IA",
+                "run",
+                "servidor_claude_wikipedia.py"
+            ],
+            "description": "Um servidor MCP local que faz buscas na wikipedia e retorna o resumo de um artigo."
+        }
+    }
+}
