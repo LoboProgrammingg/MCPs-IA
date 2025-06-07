@@ -1,0 +1,6 @@
+fastmcp
+genai
+google-genai
+google-generativeai
+python-dotenv
+wikipedia
