@@ -9,6 +9,14 @@
                 "servidor_claude_wikipedia.py"
             ],
             "description": "Um servidor MCP local que faz buscas na wikipedia e retorna o resumo de um artigo."
+        },
+        "filesystem": {
+            "command": "npx",
+            "args": [
+                "-y",
+                "@modelcontextprotocol/server-filesystem",
+                "/home/loboprogramming/Downloads"
+            ]
         }
     }
 }
