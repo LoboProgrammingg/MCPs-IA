@@ -43,4 +43,4 @@ def buscar_previsao_tempo(local: str) -> dict:
 
 if __name__ == "__main__":
     print("Iniciando o servidor de previsão do tempo...")
-    servidor_mcp.run(transport='sse')
+    servidor_mcp.run(transport='stdio')
