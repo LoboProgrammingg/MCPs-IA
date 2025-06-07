@@ -6,4 +6,9 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "fastmcp>=2.7.0",
+    "genai",
+    "google-genai>=1.19.0",
+    "google-generativeai>=0.8.5",
+    "python-dotenv",
+    "wikipedia",
 ]
