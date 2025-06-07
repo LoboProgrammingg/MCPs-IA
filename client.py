@@ -48,5 +48,5 @@ async def testar_servidor(cliente, busca):
 if __name__ == '__main__':
     asyncio.run(testar_servidor(
         cliente=cliente,
-        busca='Inteligência Artificial'
+        busca='Nikola Tesla'
     ))
