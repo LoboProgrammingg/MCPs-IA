@@ -10,6 +10,16 @@
             ],
             "description": "Um servidor MCP local que faz buscas na wikipedia e retorna o resumo de um artigo."
         },
+        "busca-tempo": {
+            "command": "/home/loboprogramming/.local/bin/uv",
+            "args": [
+                "--directory",
+                "/home/loboprogramming/Área de trabalho/MCP-IA",
+                "run",
+                "servidor_previsao_tempo.py"
+            ],
+            "description": "Um servidor MCP que faz buscas no OPenWeather e retorna valores de sua API."
+        },
         "filesystem": {
             "command": "npx",
             "args": [
