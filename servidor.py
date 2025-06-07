@@ -3,7 +3,7 @@ from fastmcp import FastMCP
 servidor_mcp = FastMCP("mcp-teste")
 
 @servidor_mcp.tool()
-def dar_bom_dia(nome_usuario: str, id_usuario: int) -> str:
+async def dar_bom_dia(nome_usuario: str, id_usuario: int) -> str:
     return f'Ola, {nome_usuario}! (ID {id_usuario})'
 
 
