@@ -14,4 +14,8 @@ async def testar_servidor(cliente, nome_usuario, id_usuario):
         
 
 if __name__ == '__main__':
-    testar_servidor(cliente=cliente, nome_usuario='matheus', id_usuario=5)
+    asyncio.run(testar_servidor
+                (cliente=cliente,
+                nome_usuario='matheus',
+                id_usuario=5)
+            )
