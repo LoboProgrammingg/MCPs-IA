@@ -97,5 +97,6 @@ Basta abrir um _issue_ ou um _pull request_ com sua ideia, sugestão ou correç�
 <div align="center">
 
 Feito por [LoboProgrammingg](https://github.com/LoboProgrammingg)
+---
 
 </div>
