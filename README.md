@@ -94,9 +94,10 @@ Basta abrir um _issue_ ou um _pull request_ com sua ideia, sugestão ou correç�
 
 ---
 
-<div align="center">
+## 👤 Autor
 
-Feito por [LoboProgrammingg](https://github.com/LoboProgrammingg)
----
+**Matheus Lobo** (Matheus Lobo Camara), CTO e cofundador da [WebFrete](https://webfrete.com/). [GitHub](https://github.com/LoboProgrammingg) · [LinkedIn](https://www.linkedin.com/in/matheuslobocamara/)
 
-</div>
+## 📄 Licença
+
+Distribuído sob a licença MIT. Veja o arquivo [LICENSE](LICENSE).
